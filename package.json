@@ -12,7 +12,7 @@
   },
   "keywords": [
     "vide-plugin",
-    "text"
+    "prompt-text"
   ],
   "main": "lib/index.js",
   "dependencies": {
