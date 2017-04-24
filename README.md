@@ -1,23 +1,4 @@
-# babel-plugin-react-perf
+# vide-plugin-prompt-text
 
-
-## usage
-
-npm install --save babel-plugin-react-perf
-
-## config
-
-```json
-{
-  "presets": ["es2015", "react"],
-  "plugins": [
-    ["react-perf",{
-        "maxExecuteLimit": 3,
-        "needAddPerfRule": {
-          "superClass": ["Component"]
-        }
-      }
-    ]
-  ]
-}
-```
+## introduction
+engine for common file
