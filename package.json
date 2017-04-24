@@ -1,6 +1,6 @@
 {
   "name": "vide-plugin-prompt-text",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "vic.wang",
   "scripts": {
     "start": "babel ./src/ -d ./lib/"
@@ -14,6 +14,10 @@
     "vide-plugin",
     "prompt-text"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:debuggap/vide-plugin-prompt-text.git"
+  },
   "main": "lib/index.js",
   "dependencies": {
     "babel-cli": "^6.18.0",
